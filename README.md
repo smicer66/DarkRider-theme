@@ -5,13 +5,10 @@ DarkRider-theme provides a theme for the SmartPay web application which is used 
 
 ## Technical Details
 
-The DarkRider-theme application is developed using Liferay Java framework which provides portal development capabilities. Database used is Microsoft SQL
+The DarkRider-theme application is developed using Liferay velocity template which provides themeing capabilities.
 
 ## Install the Java
 Before proceeding, make sure your computer has Java installed. Minimum version is Java 8. See Oracle website for documentation on Java installation
-
-## Install the Microsoft SQL
-Before proceeding, make sure your computer has Microsoft SQL installed. See guidance online for installtion of Microsoft SQL and its tools.
 
 ## Dependency
 Generate WAR file using your favorite IDE such as Eclipse or your command prompt/bash. <br><br>
